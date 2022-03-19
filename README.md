@@ -4,10 +4,10 @@ Repository containing portfolio of data science projects completed by me for aca
 
 # Contents
 ## Machine Learning
-### [Predicting Car Price](../otomoto/CarPricePrediction.ipynb)
+### [Predicting Car Price](./otomoto/CarPricePrediction.ipynb)
 A model to predict the value of a given car on a car sales portal: [otomoto](otomoto.pl)
 > Tools: scikit-learn, pandas, numpy, seaborn, matplotlib 
 ## Data Analysis and Visualization
-### [Otomoto Dataset - Price Analysis](../otomoto/OtomotoDatasetAnalysis.ipynb)
+### [Otomoto Dataset - Price Analysis](./otomoto/OtomotoDatasetAnalysis.ipynb)
 Analysis of factors influencing the selling price of a car on [otomoto](otomoto.pl)
 > Tools: pandas, numpy, seaborn, matplotlib 
