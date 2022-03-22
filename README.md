@@ -13,3 +13,8 @@ A model to predict the value of a given car on a car sales portal: [otomoto](oto
 Analysis of factors influencing the selling price of a car on [otomoto](otomoto.pl)
 > Tools: pandas, numpy, seaborn, matplotlib \
 > Dataset: (self-made: Web scraping) https://drive.google.com/file/d/1xp0Aam0Vv-A3zTQ-kihz0wExzqdpJjeZ/view
+## NLP
+### [Sentiment Analysis Models Comparison](./sentiment_analysis/SentimentAnalysisModelsComparison.ipynb)
+Implementation and comparison of models for opinion sentiment classification in Polish.
+> Tools: pandas, numpy, matplotlib, scikit-learn, tensorflow \
+> Dataset: https://drive.google.com/file/d/1vXqUEBjUHGGy3vV2dA7LlvBjjZlQnl0D/view?usp=sharing
