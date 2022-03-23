@@ -20,6 +20,11 @@ Summary of TFT games at the Masters France tournament. Includes composition visu
 > Tools: Google Sheets, Excel, Python \
 > Dataset: Self-collected data from Riot API
 
+### [TFT Reckoning Worlds HP per Round Visualization](https://docs.google.com/spreadsheets/d/1DBf1uIgEjappgOBhx_oL1jap1YZZUUgt22IhSB4wcVQ/edit?usp=sharing)
+Visualization of the change in health level of TFT World Championship players per game. 
+> Tools: Google Sheets, Excel, Python(OpenCV, Tesseract OCR), Azure OCR \
+> Dataset: Data was collected automatically from VOD using Azure OCR and Tesseract OCR
+
 ## NLP
 ### [Sentiment Analysis Models Comparison](./sentiment_analysis/SentimentAnalysisModelsComparison.ipynb)
 Implementation and comparison of models for opinion sentiment classification in Polish.
