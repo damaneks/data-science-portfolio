@@ -25,6 +25,11 @@ Visualization of the change in health level of TFT World Championship players pe
 > Tools: Google Sheets, Excel, Python(OpenCV, Tesseract OCR), Azure OCR \
 > Dataset: Data was collected automatically from VOD using Azure OCR and Tesseract OCR
 
+### [SCH Twitter Profile](https://twitter.com/SCH_TFT)
+Twitter profile publishing stats from the Teamfight Tactics tournament scene. 
+> Tools: Google Sheets, Excel, Python(OpenCV, Tesseract OCR), Azure OCR \
+> Dataset: Self-collected data from Riot API and VOD (using computer vision)
+
 ## NLP
 ### [Sentiment Analysis Models Comparison](./sentiment_analysis/SentimentAnalysisModelsComparison.ipynb)
 Implementation and comparison of models for opinion sentiment classification in Polish.
